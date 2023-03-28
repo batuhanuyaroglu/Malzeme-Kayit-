@@ -1,2 +1,2 @@
 # Malzeme-Kayit-
-Malzeme Kayit Project wit C# &amp; Sql
+Malzeme Kayit Project with C# &amp; Sql
